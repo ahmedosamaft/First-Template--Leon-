@@ -12,6 +12,10 @@
   padding: 20px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .special-heading h1 {
   margin: 0;
 }
